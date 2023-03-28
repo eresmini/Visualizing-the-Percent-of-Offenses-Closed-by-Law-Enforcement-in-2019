@@ -1,7 +1,4 @@
 ## Emma Resmini
-## Final Project
-## CDS301
-## Due 7/23/21
 
 library(dplyr)
 library(ggplot2)
